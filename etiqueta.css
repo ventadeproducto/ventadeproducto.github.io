@@ -1,0 +1,38 @@
+.bienvenidos{
+    margin-top: 50px;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+th{
+background-color: black white;
+
+}
+table{
+    margin-top: 50px;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+td{
+    
+padding-left: 10px;
+border: 4px solid rgb(36, 202, 21);
+padding-top: 10px;
+padding-bottom: 10px;
+width: 300px;
+font-size: 20px;
+font-family: 'Open  Sans', Arial, sans-serif;
+}
+th{
+    border: 2px solid rgb(9, 65, 187);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+tr{
+    border: 2px solid black;
+}

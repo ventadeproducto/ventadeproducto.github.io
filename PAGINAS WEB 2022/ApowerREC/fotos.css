@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.imagenes{
+    text-align: center;
+    margin: auto;
+    display: flex;
+justify-content: center;
+margin-right: 200px;
+
+height: 100px;
+}
+.imagen-1{
+margin-right: 15px;
+}
+.imagen-2{
+margin-right: 15px;
+}
+.imagen-3{
+margin-right: 15px;
+}
+
+.imagen-4{
+
+}
+      
+    
+.imagen-5{
+
+}
